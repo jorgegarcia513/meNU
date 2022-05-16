@@ -7,3 +7,4 @@ Planned Features/Changes:
 * Customizable Links/Buttons
 * Search Bar
 * Prettier
+* Refactor popup.html to be more dynamic
